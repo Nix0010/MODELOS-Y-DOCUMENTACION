@@ -55,6 +55,8 @@ Personalización de la interfaz según las preferencias del usuario.
 Con esta solución, el estudiante podrá acceder de manera rápida y sencilla a su información académica, mantener un seguimiento constante de su progreso y mejorar la administración de su tiempo y responsabilidades.
 
 **OBJETIVOS**
+
+
  Objetivo General
 
 Desarrollar una aplicación multiplataforma en Python (para escritorio y móvil) que permita a los estudiantes gestionar de forma integrada sus tareas, calificaciones, horarios, recordatorios y configuraciones personales.
