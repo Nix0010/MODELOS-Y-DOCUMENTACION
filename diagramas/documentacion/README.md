@@ -172,7 +172,10 @@ Tiempo: indica el comportamiento temporal de recordatorios y eventos programados
 
 CRONOGRAMA GENERAL
 
-image
+ <img width="2379" height="1380" alt="image" src="https://github.com/user-attachments/assets/8ae3f5c9-3400-4f2f-959e-271e626e04c3" />
+
+ 
+
 Fase Actividad Duración Responsable
 
 1 Análisis de requerimientos 2 semanas
