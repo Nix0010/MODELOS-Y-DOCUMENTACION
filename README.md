@@ -25,6 +25,33 @@ El Sistema de Gestión Académica surge como una solución integral que permite 
 El uso de Python junto con SQLite, PyQt y Kivy garantiza portabilidad, facilidad de uso y funcionamiento tanto offline como online (en versiones futuras con sincronización en la nube).
 La aplicación está pensada para brindar autonomía, privacidad y una organización eficaz de los recursos académicos personales.
 
+**PROBLEMA**
+
+En la actualidad, muchos estudiantes enfrentan dificultades para organizar y gestionar sus actividades académicas de manera eficiente.
+El uso de múltiples herramientas digitales —como calendarios, blocs de notas, hojas de cálculo o recordatorios dispersos— genera desorganización, pérdida de información y falta de seguimiento del rendimiento académico.
+
+Además, los estudiantes que alternan entre dispositivos (computador y teléfono móvil) suelen perder continuidad en la planificación de sus tareas, ya que no existe una herramienta unificada que centralice la gestión de horarios, calificaciones, tareas y recordatorios de forma accesible, rápida y sin conexión a internet.
+Esta situación afecta la productividad, el rendimiento académico y la gestión del tiempo de los estudiantes.
+
+**SOLUCIÓN**
+
+La propuesta consiste en desarrollar un Sistema de Gestión Académica (SGA) multiplataforma (para escritorio y dispositivos móviles) que permita a los estudiantes organizar toda su información académica desde un solo lugar.
+
+El sistema está desarrollado en Python, utilizando PyQt para la versión de escritorio y Kivy para la versión móvil, con una base de datos local SQLite que asegura la persistencia y seguridad de los datos.
+
+El SGA ofrece las siguientes funcionalidades principales:
+
+Registro y control de tareas académicas con fechas de entrega.
+
+Gestión de calificaciones y cálculo automático de promedios.
+
+Organización visual de horarios de clase.
+
+Creación de recordatorios personalizados con fecha y hora.
+
+Personalización de la interfaz según las preferencias del usuario.
+
+Con esta solución, el estudiante podrá acceder de manera rápida y sencilla a su información académica, mantener un seguimiento constante de su progreso y mejorar la administración de su tiempo y responsabilidades.
 
 **OBJETIVOS**
  Objetivo General
