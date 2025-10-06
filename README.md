@@ -191,11 +191,16 @@ CRONOGRAMA GENERAL
 <img width="2379" height="1380" alt="image" src="https://github.com/user-attachments/assets/27b84c58-cd3e-4464-8a8f-54ca58d35fb7" />
 
 Fase	Actividad	Duración	Responsable
-1	Análisis de requerimientos	2 semanas	Desarrollador
-2	Diseño UML y modelo ER	2 semanas	Desarrollador
-3	Implementación multiplataforma	4 semanas	Desarrollador
-4	Pruebas y validación	2 semanas	Desarrollador
-5	Documentación y entrega	1 semana	Desarrollador
+
+1	Análisis de requerimientos	2 semanas	
+
+2	Diseño UML y modelo ER	2 semanas	
+
+3	Implementación multiplataforma	4 semanas	
+
+4	Pruebas y validación	2 semanas	
+
+5	Documentación y entrega	1 semana
 
 CONCLUSION
 
