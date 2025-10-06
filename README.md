@@ -1,4 +1,4 @@
- #DOCUMENTACIÓN DEL PROYECTO: SISTEMA DE GESTIÓN ACADÉMICA#
+ **DOCUMENTACIÓN DEL PROYECTO: SISTEMA DE GESTIÓN ACADÉMICA**
  
  Integrantes: 
  Valery Gabriela Alarcon Peña 
@@ -8,7 +8,7 @@
  Ing. Hely Suarez Marin
 
  
-RESUMEN EJECUTIVO
+**RESUMEN EJECUTIVO**
 
 El Sistema de Gestión Académica es una aplicación multiplataforma desarrollada en Python, diseñada para funcionar tanto en escritorio (mediante Qt Creator / PyQt) como en dispositivos móviles (usando Kivy).
 El sistema permite a los estudiantes organizar sus actividades académicas desde cualquier lugar, sincronizando información entre versiones y almacenando los datos localmente mediante SQLite.
@@ -17,7 +17,7 @@ El SGA integra funciones de gestión de tareas, horarios, calificaciones, record
 Su propósito es mejorar la productividad, el control académico y la planificación del estudiante mediante una interfaz amigable y adaptable a distintos entornos.
 
 
-JUSTIFICACIÓN
+**JUSTIFICACIÓN**
 
 Los estudiantes actuales dependen de múltiples herramientas digitales para su vida académica. Sin embargo, la dispersión de información entre diferentes aplicaciones provoca pérdida de tiempo y desorganización.
 El Sistema de Gestión Académica surge como una solución integral que permite gestionar desde un solo entorno todas las actividades académicas del estudiante, ya sea desde su computadora o su teléfono móvil.
@@ -26,7 +26,7 @@ El uso de Python junto con SQLite, PyQt y Kivy garantiza portabilidad, facilidad
 La aplicación está pensada para brindar autonomía, privacidad y una organización eficaz de los recursos académicos personales.
 
 
-OBJETIVOS
+**OBJETIVOS**
  Objetivo General
 
 Desarrollar una aplicación multiplataforma en Python (para escritorio y móvil) que permita a los estudiantes gestionar de forma integrada sus tareas, calificaciones, horarios, recordatorios y configuraciones personales.
@@ -46,7 +46,7 @@ Garantizar la persistencia y seguridad de los datos locales.
 Optimizar la experiencia del usuario con navegación fluida y diseño moderno.
 
 
-ALCANCE DEL PROYECTO
+**ALCANCE DEL PROYECTO**
 
 El SGA permite a los estudiantes gestionar integralmente su información académica.
 Las funcionalidades abarcan:
@@ -64,7 +64,7 @@ Personalización de temas, colores y apariencia de la interfaz.
 El sistema opera localmente sin conexión a internet, pero está diseñado para futuras integraciones con servicios en la nube o plataformas institucionales.
 
 
-METODOLOGÍA DE DESARROLLO
+**METODOLOGÍA DE DESARROLLO**
 
 El desarrollo del SGA utiliza una metodología Ágil híbrida, basada en principios de Scrum y Cascada mejorada, para permitir una evolución flexible del sistema.
 
@@ -81,7 +81,7 @@ Pruebas y depuración en entornos multiplataforma.
 Documentación técnica y ejecutiva.
 
 
-REQUERIMIENTOS DEL SISTEMA
+**REQUERIMIENTOS DEL SISTEMA**
 Requerimientos Funcionales
 
 RF01: Registrar, modificar y eliminar tareas.
@@ -113,7 +113,7 @@ RNF04: Interfaz intuitiva y accesible.
 RNF05: Código modular y documentado.
 
 
-ARQUITECTURA DEL SISTEMA
+**ARQUITECTURA DEL SISTEMA**
 
 El SGA está estructurado bajo el patrón Modelo–Vista–Controlador (MVC):
 
@@ -126,36 +126,7 @@ Controlador: intermedia entre la vista y el modelo, gestionando los eventos y va
 Este enfoque modular garantiza portabilidad, escalabilidad y facilidad de mantenimiento del código fuente.
 
 
-MODELO ENTIDAD–RELACIÓN (ER)
-
-Entidades Principales:
-
-Estudiante (id_estudiante, nombre, carrera, semestre)
-
-Asignatura (id_asignatura, nombre, créditos, id_estudiante)
-
-Tarea (id_tarea, título, descripción, fecha_entrega, estado, id_asignatura)
-
-Calificación (id_calificacion, nota, id_asignatura)
-
-Horario (id_horario, día, hora_inicio, hora_fin, id_asignatura)
-
-Recordatorio (id_recordatorio, mensaje, fecha_hora)
-
-Configuración (id_config, tema, color_primario)
-
-Relaciones:
-
-Un estudiante puede tener muchas asignaturas.
-
-Una asignatura puede tener varias tareas, calificaciones y horarios.
-
-Las tareas pertenecen a una asignatura.
-
-Los recordatorios pueden asociarse a cualquier fecha o actividad.
-
-
-DIAGRAMAS UML
+**DIAGRAMAS UML**
 Diagramas Estáticos
 
 Diagrama de Clases: muestra las clases principales y sus relaciones.
@@ -186,7 +157,7 @@ Tiempo: indica el comportamiento temporal de recordatorios y eventos programados
 
 
 
-CRONOGRAMA GENERAL
+**CRONOGRAMA GENERAL**
 
 <img width="2379" height="1380" alt="image" src="https://github.com/user-attachments/assets/27b84c58-cd3e-4464-8a8f-54ca58d35fb7" />
 
@@ -202,7 +173,7 @@ Fase	Actividad	Duración	Responsable
 
 5	Documentación y entrega	1 semana
 
-CONCLUSION
+**CONCLUSION**
 
 El Sistema de Gestión Académica (SGA) representa una herramienta práctica, moderna y funcional para el entorno educativo actual.
 Su diseño multiplataforma permite que los estudiantes gestionen su vida académica desde cualquier dispositivo, con acceso rápido y sin necesidad de conexión a internet.
