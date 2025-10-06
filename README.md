@@ -94,6 +94,7 @@ Personalización de temas, colores y apariencia de la interfaz.
 El sistema opera localmente sin conexión a internet, pero está diseñado para futuras integraciones con servicios en la nube o plataformas institucionales.
 
 
+
 **METODOLOGÍA DE DESARROLLO**
 
 El desarrollo del SGA utiliza una metodología Ágil híbrida, basada en principios de Scrum y Cascada mejorada, para permitir una evolución flexible del sistema.
@@ -111,7 +112,10 @@ Pruebas y depuración en entornos multiplataforma.
 Documentación técnica y ejecutiva.
 
 
+
 **REQUERIMIENTOS DEL SISTEMA**
+
+
 Requerimientos Funcionales
 
 RF01: Registrar, modificar y eliminar tareas.
@@ -143,6 +147,7 @@ RNF04: Interfaz intuitiva y accesible.
 RNF05: Código modular y documentado.
 
 
+
 **ARQUITECTURA DEL SISTEMA**
 
 El SGA está estructurado bajo el patrón Modelo–Vista–Controlador (MVC):
@@ -157,6 +162,8 @@ Este enfoque modular garantiza portabilidad, escalabilidad y facilidad de manten
 
 
 **DIAGRAMAS UML**
+
+
 Diagramas Estáticos
 
 Diagrama de Clases: muestra las clases principales y sus relaciones.
@@ -170,6 +177,7 @@ Diagrama de Paquetes: agrupa los archivos del proyecto en models, controllers, v
 Diagrama de Despliegue: representa la instalación en PC o móvil con base de datos local.
 
 Diagrama de Estructura Compuesta: detalla la estructura interna del módulo de gestión de asignaturas.
+
 
 Diagramas Dinámicos
 
@@ -189,7 +197,9 @@ Tiempo: indica el comportamiento temporal de recordatorios y eventos programados
 
 **CRONOGRAMA GENERAL**
 
+
 <img width="2379" height="1380" alt="image" src="https://github.com/user-attachments/assets/27b84c58-cd3e-4464-8a8f-54ca58d35fb7" />
+
 
 Fase	Actividad	Duración	Responsable
 
