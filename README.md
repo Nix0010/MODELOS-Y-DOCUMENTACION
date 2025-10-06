@@ -2,6 +2,7 @@
  
  Integrantes: 
  Valery Gabriela Alarcon Peña 
+ 
  Mary Fernanda Rodriguez Morales 
 
  Profesor: 
