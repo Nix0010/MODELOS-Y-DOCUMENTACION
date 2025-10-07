@@ -12,12 +12,6 @@ El Sistema de Gestión Académica es una aplicación multiplataforma desarrollad
 
 El SGA integra funciones de gestión de tareas, horarios, calificaciones, recordatorios y personalización de la interfaz, ofreciendo una experiencia moderna y accesible. Su propósito es mejorar la productividad, el control académico y la planificación del estudiante mediante una interfaz amigable y adaptable a distintos entornos.
 
-JUSTIFICACIÓN
-
-Los estudiantes actuales dependen de múltiples herramientas digitales para su vida académica. Sin embargo, la dispersión de información entre diferentes aplicaciones provoca pérdida de tiempo y desorganización. El Sistema de Gestión Académica surge como una solución integral que permite gestionar desde un solo entorno todas las actividades académicas del estudiante, ya sea desde su computadora o su teléfono móvil.
-
-El uso de Python junto con SQLite, PyQt y Kivy garantiza portabilidad, facilidad de uso y funcionamiento tanto offline como online (en versiones futuras con sincronización en la nube). La aplicación está pensada para brindar autonomía, privacidad y una organización eficaz de los recursos académicos personales.
-
 PROBLEMA
 
 En la actualidad, muchos estudiantes enfrentan dificultades para organizar y gestionar sus actividades académicas de manera eficiente. El uso de múltiples herramientas digitales —como calendarios, blocs de notas, hojas de cálculo o recordatorios dispersos— genera desorganización, pérdida de información y falta de seguimiento del rendimiento académico.
