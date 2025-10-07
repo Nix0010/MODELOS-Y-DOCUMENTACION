@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS calificaciones;
+DROP TABLE IF EXISTS recordatorios;
+DROP TABLE IF EXISTS tareas;
+DROP TABLE IF EXISTS horarios;
+DROP TABLE IF EXISTS materias;
+DROP TABLE IF EXISTS usuarios;
