@@ -1,4 +1,4 @@
-# Diccionario de Datos — Base de Datos SGA
+# TABLAS
 
 ## Tabla: usuario
 | Campo      | Tipo     | PK/FK | Descripción                        |
