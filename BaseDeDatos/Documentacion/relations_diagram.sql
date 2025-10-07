@@ -1,6 +1,0 @@
--- Relaciones principales:
--- usuarios (1 - N) materias (profesor imparte materias)
--- usuarios (1 - N) calificaciones (estudiantes reciben notas)
--- usuarios (1 - N) tareas (estudiantes crean tareas)
--- materias (1 - N) horarios
--- tareas (1 - 1) recordatorios
